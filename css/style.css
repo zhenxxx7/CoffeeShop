@@ -281,6 +281,10 @@ section{
     height: 28rem;
 }
 
+.menu .box-container .box span{
+    margin-left: 1.5rem;
+}
+
 .menu .box-container .box h3{
     color: #fff;
     font-size: 2.3rem;
@@ -358,12 +362,6 @@ section{
 .products .box-container .box .content .price{
     color:#fff;
     font-size: 2.5rem;
-}
-
-.products .box-container .box .content .price span{
-    text-decoration: line-through;
-    font-weight: lighter;
-    font-size: 1.5rem;
 }
 
 .contact .row{
