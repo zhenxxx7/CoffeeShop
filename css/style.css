@@ -63,8 +63,8 @@ section{
     display: inline-block;
     padding:.9rem 3rem;
     font-size: 1.7rem;
-    color:#fff;
-    background: var(--main-color);
+    color:rgb(49, 46, 46);
+    background: #fff;
     cursor: pointer;
 }
 
@@ -243,7 +243,7 @@ section{
 }
 
 .about .row .image img{
-    width: 100%;
+    width: 80%;
 }
 .about .row .content{
     flex:1 1 45rem;
@@ -251,7 +251,7 @@ section{
 }
 
 .about .row .content h3{
-    font-size: 3rem;
+    font-size: 5.5rem;
     color:#fff;
 }
 
