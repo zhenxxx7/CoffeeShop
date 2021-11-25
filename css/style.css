@@ -269,28 +269,31 @@ section{
 }
 
 .menu .box-container .box{
-    padding:5rem;
-    text-align: center;
-    border:var(--border);    
+    padding:2rem;
+    text-align: left;  
+}
+
+.menu .box-container .box .str{
+    height: 1rem; 
 }
 
 .menu .box-container .box img{
-    height: 10rem;
+    height: 28rem;
 }
 
 .menu .box-container .box h3{
     color: #fff;
-    font-size: 2rem;
+    font-size: 2.3rem;
     padding:1rem 0;
 }
 
-.menu .box-container .box .price{
+.menu .box-container .box .addr{
     color: #fff;
-    font-size: 2.5rem;
+    font-size: 1.6rem;
     padding:.5rem 0;
 }
 
-.menu .box-container .box .price span{
+.menu .box-container .box .addr span{
     font-size: 1.5rem;
     text-decoration: line-through;
     font-weight: lighter;
