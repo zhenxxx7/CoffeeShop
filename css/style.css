@@ -350,11 +350,11 @@ section{
     background:var(--main-color);
 }
 
-.products .box-container .box .image{
+.products .box-container .box .image-1{
     padding: 2.5rem 0;
 }
 
-.products .box-container .box .image img{
+.products .box-container .box .image-1 img{
     height: 25rem;
 }
 
